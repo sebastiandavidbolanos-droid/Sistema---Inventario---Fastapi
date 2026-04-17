@@ -1,0 +1,1 @@
+# Este archivo convierte la carpeta 'app' en un módulo de Python.
